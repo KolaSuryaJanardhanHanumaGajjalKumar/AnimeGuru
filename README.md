@@ -1,7 +1,7 @@
 
 # Links to the Website
 
-1. [Click Here](https://animeguru.netlify.app/).\
+1. [Click Here](https://animeguru.netlify.app/).
 2. [Click Here](https://kolasuryajanardhanhanumagajjalkumar.github.io/AnimeGuru/).
 # Getting Started with Create React App
 
