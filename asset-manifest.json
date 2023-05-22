@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AnimeGuru/static/css/main.18471912.css",
+    "main.css": "/AnimeGuru/static/css/main.de45c36b.css",
     "main.js": "/AnimeGuru/static/js/main.260a8d5e.js",
-    "static/media/peak.jpeg": "/AnimeGuru/static/media/peak.95a5ca1ed1bac79d0dd5.jpeg",
+    "static/media/peak.jpg": "/AnimeGuru/static/media/peak.936a7ad00dfe812ffbda.jpg",
     "static/media/cap1-unscreen.gif": "/AnimeGuru/static/media/cap1-unscreen.217bac2c754b86a040ae.gif",
     "index.html": "/AnimeGuru/index.html",
-    "main.18471912.css.map": "/AnimeGuru/static/css/main.18471912.css.map",
+    "main.de45c36b.css.map": "/AnimeGuru/static/css/main.de45c36b.css.map",
     "main.260a8d5e.js.map": "/AnimeGuru/static/js/main.260a8d5e.js.map"
   },
   "entrypoints": [
-    "static/css/main.18471912.css",
+    "static/css/main.de45c36b.css",
     "static/js/main.260a8d5e.js"
   ]
 }
