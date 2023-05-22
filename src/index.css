@@ -1,8 +1,7 @@
 body {
   margin: 0;
-  background-image: url("./Icons/peak.jpeg");
+  background-image: url("./Icons/peak.jpg");
   background-size: cover;
-
     /* background-image: linear-gradient(to right, #243949 0%, #517fa4 100%); */
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
